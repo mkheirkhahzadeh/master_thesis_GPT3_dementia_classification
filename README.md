@@ -1,0 +1,3 @@
+# master_thesis_GPT3_dementia_classification
+In progress...
+1-Phase1: Introduction to GP3 embedding
